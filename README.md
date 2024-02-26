@@ -2,7 +2,7 @@
 
 Submitted: 28/02/2024
 
-Created by Benjamin, Camilla and Tobias.
+Created by Benjamin, Camilla and Tobias
 
 ## 1. Build a QA system that retrieves information from a given set of documents (or a document) to answer complex queries
 
